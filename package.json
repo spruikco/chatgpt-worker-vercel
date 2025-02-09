@@ -1,0 +1,13 @@
+{
+  "name": "chatgpt-worker-vercel",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node api/index.js"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "dotenv": "^16.0.3",
+    "mysql2": "^3.1.2",
+    "octokit": "^2.0.0"
+  }
+}
